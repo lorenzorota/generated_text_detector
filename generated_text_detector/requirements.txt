@@ -1,7 +1,7 @@
 beautifulsoup4==4.12.3
 fastapi==0.110.0
 Markdown==3.7
-numpy==1.25.2
+numpy>=1.25.2
 nltk==3.8.1
 starlette==0.36.3
 torch==2.2.1
